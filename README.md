@@ -1,40 +1,43 @@
 # Hi there, I'm Phan Hải Anh 👋
 ### 🚀 Aspiring Backend Engineer & System Architect
 
-Chào mừng bạn đến với không gian GitHub của tôi! Tôi là một sinh viên năm nhất chuyên ngành **Kỹ thuật Phần mềm (Software Engineering)** với một ngọn lửa đam mê mãnh liệt dành cho thế giới Backend và Kiến trúc hệ thống.
+Welcome to my GitHub space! I am a first-year **Software Engineering** student driven by an intense passion for Backend Development and complex System Architecture.
 
 ---
 
-### 🌟 Về Tôi & Sứ Mệnh Phát Triển
+### 🌟 About Me & My Vision
 
-* 🎯 **Mục tiêu sự nghiệp:** Trở thành một **Backend Engineer thực thụ**. Tôi hướng đến việc xây dựng và tối ưu hóa các hệ thống nền tảng vững chắc, tối tân, đảm bảo tính **an toàn, bảo mật** cao. Sứ mệnh của tôi là mang lại sự yên tâm tuyệt đối cho các doanh nghiệp lớn và nhỏ, tạo bệ phóng giúp họ vận hành trơn tru và "bành trướng" tầm ảnh hưởng trên thị trường.
-* 💡 **Khát vọng tương lai:** Tôi nuôi dưỡng một ước mơ lớn — tự tay build một công ty riêng và phát triển những ứng dụng thực sự có ích, mang lại giá trị thực tế và trải nghiệm vượt trội cho người dùng.
-* 🧠 **Thử thách AI:** Tôi đặc biệt bị thu hút bởi những bài toán nan giải về **Kiến trúc hệ thống phần mềm (System Architecture)**. Đó là những bài toán phức tạp, đòi hỏi tư duy logic, sự nhạy bén và tầm nhìn chiến lược dài hạn — những giá trị cốt lõi mà các công cụ AI hiện tại vẫn chưa thể thay thế hay giải quyết được.
+* 🎯 **Career Mission:** To become a true **Backend Engineer**. I aim to architect and optimize core infrastructure that is incredibly robust, highly scalable, and ultra-secure. My mission is to provide businesses of all sizes with the technical foundation they need to expand their market dominance with absolute peace of mind.
+* 💡 **Future Aspiration:** I am actively building towards a future where I can establish my own tech enterprise, engineering purposeful applications that deliver flawless user experiences and real-world value.
+* 🧠 **The AI Frontier:** I am deeply captivated by intricate **System Design** challenges. These multi-dimensional architectural bottlenecks require strategic intuition, deep logical synthesis, and long-term vision—cognitive values that current AI models simply cannot replicate or solve.
 
 ---
 
-### 🛠️ Kỹ Năng & Công Cụ (Tech Stack)
+### 🛠️ Deep Dive & Tech Stack
 
-Để chuẩn bị cho hành trình dài hạn hướng tới vị trí System Architect, tôi đang tập trung rèn luyện các công nghệ và nền tảng cốt lõi:
+I am deliberately focusing my academic and personal trajectory on mastering enterprise-grade backend ecosystems and architectural design patterns:
 
-* **Ngôn ngữ lập trình:** ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+* **Core Backend Ecosystem (Deep Dive):**
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-* **Tư duy & Core kiến thức:**
-  * Cấu trúc dữ liệu & Giải thuật (DSA)
-  * Lập trình hướng đối tượng (OOP / OOD)
-  * Thiết kế hệ thống cơ bản & Quản trị cơ sở dữ liệu
-* **Công cụ phát triển:**
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+* **Data Engineering & Storage:**
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![NoSQL](https://img.shields.io/badge/NoSQL-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) *(Focusing on high-throughput Document & Key-Value stores)*
+* **Architectural Foundations:**
+  * **System Design:** Scalability, High Availability, Microservices, and Secure Infrastructure.
+  * **Core Engineering:** Data Structures & Algorithms (DSA) & Object-Oriented Design (OOD).
+* **Other Languages & Tools:**
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 🌱 Hành Trình Hiện Tại
+### 🌱 Current Learning Journey
 
-- 📚 Hiện đang là sinh viên năm nhất, tập trung tối đa vào việc xây dựng nền tảng tư duy lập trình vững chắc và tối ưu hóa thuật toán.
-- 🛠️ Đang triển khai các dự án backend cá nhân nhỏ, áp dụng các nguyên lý thiết kế hướng đối tượng (OOD) bài bản để rèn luyện tư duy hệ thống ngay từ những bước đầu tiên.
-- 🔍 Luôn tìm tòi, đào sâu vào cách thức hoạt động bên dưới của các service layers và luồng xử lý dữ liệu.
+- 📚 Actively studying the internal mechanics of the **Spring Framework** and advanced **Java** concepts.
+- 🗄️ Exploring relational database optimization (indexing, query tuning in **PostgreSQL**) alongside horizontal scaling strategies in **NoSQL**.
+- 📐 Designing personal backend modules from scratch with strict **OOD/OOP** principles to cultivate an architectural mindset right from my freshman year.
 
 ---
 
@@ -47,11 +50,9 @@ Chào mừng bạn đến với không gian GitHub của tôi! Tôi là một si
 
 ---
 
-### 🤝 Kết Nối Với Tôi
+### 🤝 Connect With Me
 
-Tôi luôn sẵn sàng đón nhận những cơ hội học hỏi, chia sẻ kiến thức và hợp tác trong các dự án về Backend & System Design!
+I am always eager to connect with senior engineers, mentors, and peers who share a passion for Backend Systems and System Design!
 
-* 📧 Email: `your.email@example.com` *(Hãy thay thế bằng email của bạn nhé!)*
+* 📧 Email: `haianh2504077@gmail.com` *(Feel free to replace this!)*
 * 💼 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/YOUR_LINKEDIN)
-
-*"Kiến trúc không chỉ là việc xây dựng các bức tường, mà là cách chúng ta tạo ra một hệ thống trường tồn với thời gian."* 🚀
